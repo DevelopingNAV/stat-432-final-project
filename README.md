@@ -1,2 +1,2 @@
 # stat-432-final-project
-Final Project for STAT 432: Basics of Statistical Learning
+Final Project for STAT 432: Basics of Statistical Learning for Spring 2026
